@@ -128,11 +128,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Laba_2\Laba_2\laba_2.cpp" />
-    <ClCompile Include="..\..\Laba_2\Laba_2\laba_3.cpp" />
-    <ClCompile Include="..\..\Laba_2\Laba_2\laba_4.cpp" />
-    <ClCompile Include="..\..\Laba_2\Laba_2\laba_5.cpp" />
-    <ClCompile Include="..\..\Laba_2\Laba_2\laba_6.cpp" />
+    <ClCompile Include="lab_2.cpp" />
+    <ClCompile Include="lab_3.cpp" />
+    <ClCompile Include="lab_4.cpp" />
+    <ClCompile Include="lab_5.cpp" />
+    <ClCompile Include="lab_6.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
